@@ -1,0 +1,786 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 10472
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.078 0.094 0.129 rg
+213.9300000000000068 747. Td
+(BALA SABAREESH P) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+38.052500000000407 729. Td
+(balasabareeshp@gmail.com | +91 9751053093 | linkedin.com/in/bala-sabareesh-p-80b74a357 | github.com/BALA-SABAREESH) Tj
+ET
+0.78 0.82 0.86 RG
+0.75 w
+40. 711. m
+572. 711. l
+S
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.059 0.09 0.165 rg
+40. 691. Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+0.12 0.16 0.23 RG
+1. w
+40. 687. m
+572. 687. l
+S
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.157 0.196 0.255 rg
+40. 674. Td
+(Computer Science undergraduate \(CGPA 8.1/10, expected 2027\) with strong fundamentals in Data Structures & Algorithms, Object-Oriented) Tj
+T* (Programming \(OOP\), Database Management Systems \(DBMS\), and REST API design. Shipped 3+ full-stack and Agentic AI applications and) Tj
+T* (completed two certified internships in Java/Spring Boot and Flutter development. Proficient across Java, Python, and JavaScript \(React.js,) Tj
+T* (Node.js, Express.js\) technology stacks, with hands-on Software Development Life Cycle \(SDLC\) experience and a fast-learning track record.) Tj
+T* (Seeking an entry-level Software Engineer / Associate Software Engineer role to apply core CS fundamentals and full-stack engineering skills) Tj
+T* (to client-facing enterprise projects.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.059 0.09 0.165 rg
+40. 600. Td
+(PROJECTS) Tj
+ET
+0.12 0.16 0.23 RG
+1. w
+40. 596. m
+572. 596. l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 583. Td
+(Job Recommendation System) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+177.75 583. Td
+(| React.js, Node.js, Express.js, MySQL, Drizzle ORM, JWT) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+551.1000000000000227 583. Td
+(2026) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 572. Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 572. Td
+(Engineered a full-stack job platform with secure JWT authentication, resume upload, application tracking, and an admin dashboard) Tj
+T* (spanning 5 core modules.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 548. Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 548. Td
+(Devised and implemented a skill-based matching algorithm computing job-match percentages across 100+ sample job listings, improving) Tj
+T* (recommendation relevance.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 524. Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 524. Td
+(Constructed and normalized the MySQL schema with Drizzle ORM across 6+ tables, reducing duplicate queries and improving data) Tj
+T* (consistency across modules.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 497. Td
+(Learning Management System \(LMS\)) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+208.1500000000000341 497. Td
+(| React.js, Node.js, Express.js, MySQL, REST API) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+551.1000000000000227 497. Td
+(2026) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 486. Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 486. Td
+(Architected a full-stack LMS supporting 2 user roles \(student/instructor\) to manage courses, assignments, and real-time progress tracking.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 472.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 472.5 Td
+(Created the front end, back end, database schema, and REST APIs end-to-end, then deployed the completed application to production.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 459. Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 459. Td
+(Structured role-based access control to streamline assignment submission and grading workflows, cutting manual grading steps.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 442.5 Td
+(Personal Productivity Assistant \(Agentic AI\)) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+240.7350000000000136 442.5 Td
+(| Python, LangChain, LangGraph, HTML/CSS/JS) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+551.1000000000000227 442.5 Td
+(2026) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 431.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 431.5 Td
+(Developed an intelligent task-reminder agent using Agentic AI \(LangChain/LangGraph\) that creates, prioritizes, and tracks daily tasks via) Tj
+T* (natural-language interaction.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 407.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 407.5 Td
+(Crafted a lightweight web front end to interact with the agent, translating conversational input into structured task-management actions in) Tj
+T* (real time.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.059 0.09 0.165 rg
+40. 379.5 Td
+(EXPERIENCE) Tj
+ET
+0.12 0.16 0.23 RG
+1. w
+40. 375.5 m
+572. 375.5 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 362.5 Td
+(AICTE EduSkills) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+116.2850000000000108 362.5 Td
+(| Java Full Stack Development Intern) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+481.2749999999999773 362.5 Td
+(Jan 2026 – Mar 2026) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 351.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 351.5 Td
+(Completed a certified full-stack development program covering Java, Spring Boot, relational databases, and web application development) Tj
+T* (across 8+ weeks of coursework.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 327.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 327.5 Td
+(Developed and unit-tested 4+ backend modules in Java and Spring Boot, applying OOP principles and REST API design patterns within an) Tj
+T* (Agile-style, sprint-based curriculum.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 300.5 Td
+(Coreverse) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+88.8300000000000125 300.5 Td
+(| Flutter Development Intern) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+480.7999999999999545 300.5 Td
+(Dec 2024 – Jan 2025) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 289.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 289.5 Td
+(Delivered 2 cross-platform mobile applications using Flutter and Dart, implementing 10+ UI screens as part of a certified mobile app) Tj
+T* (development internship.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 265.5 Td
+(• ) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+52. 265.5 Td
+(Implemented state management and debugged app architecture across Android and iOS builds, reducing UI rendering issues during QA) Tj
+T* (cycles.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.059 0.09 0.165 rg
+40. 237.5 Td
+(CORE SKILLS) Tj
+ET
+0.12 0.16 0.23 RG
+1. w
+40. 233.5 m
+572. 233.5 l
+S
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 0.118 0.176 rg
+40. 220.5 Td
+(Programming Languages:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+150.9750000000000227 220.5 Td
+(Java, Python, C, JavaScript) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 0.118 0.176 rg
+40. 209. Td
+(Web Technologies:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+122.7550000000000239 209. Td
+(HTML, CSS, React.js, Node.js, Express.js, Bootstrap, Tailwind CSS) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 0.118 0.176 rg
+40. 197.5 Td
+(Databases:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+90.9650000000000034 197.5 Td
+(SQL, MySQL, Drizzle ORM) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 0.118 0.176 rg
+40. 186. Td
+(AI / ML:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+76.6850000000000023 186. Td
+(Machine Learning Fundamentals, Agentic AI, LangChain, LangGraph) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 0.118 0.176 rg
+40. 174.5 Td
+(Tools & Platforms:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+120.6300000000000097 174.5 Td
+(Git, GitHub, VS Code, IntelliJ IDEA, Figma, Netlify, Power BI, Flutter/Dart) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 0.118 0.176 rg
+40. 163. Td
+(Soft Skills:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+89.6899999999999977 163. Td
+(Problem Solving, Communication, Team Collaboration, Fast Learning) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.059 0.09 0.165 rg
+40. 147.5 Td
+(EDUCATION) Tj
+ET
+0.12 0.16 0.23 RG
+1. w
+40. 143.5 m
+572. 143.5 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 130.5 Td
+(K S Rangasamy College of Technology) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+217.3649999999999807 130.5 Td
+(| B.E., Computer Science and Engineering) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+519.6549999999999727 130.5 Td
+(2023 – 2027) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+40. 119.5 Td
+(CGPA: 8.1/10) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 108.5 Td
+(Reliance Matriculation Higher Secondary School) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.275 0.314 0.373 rg
+260.875 108.5 Td
+(| HSC) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.118 0.161 0.231 rg
+519.6549999999999727 108.5 Td
+(2022 – 2023) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+40. 97.5 Td
+(Percentage: 74%) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.059 0.09 0.165 rg
+40. 80.5 Td
+(CERTIFICATIONS) Tj
+ET
+0.12 0.16 0.23 RG
+1. w
+40. 76.5 m
+572. 76.5 l
+S
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 63.5 Td
+(•  UiPath Professional Automation Developer Associate Certification) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 52.5 Td
+(•  Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate \(Oracle University\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 41.5 Td
+(•  Web Development Fundamentals – IBM SkillsBuild) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 0.216 0.282 rg
+42. 30.5 Td
+(•  Gemini Certified Student – Google for Education) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260919052514-00'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000010645 00000 n 
+0000012462 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000010702 00000 n 
+0000010827 00000 n 
+0000010957 00000 n 
+0000011090 00000 n 
+0000011227 00000 n 
+0000011350 00000 n 
+0000011479 00000 n 
+0000011611 00000 n 
+0000011747 00000 n 
+0000011875 00000 n 
+0000012002 00000 n 
+0000012131 00000 n 
+0000012264 00000 n 
+0000012366 00000 n 
+0000012710 00000 n 
+0000012796 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <70703994DB4FE3A359FCFCD27642248F> <70703994DB4FE3A359FCFCD27642248F> ]
+>>
+startxref
+12900
+%%EOF
